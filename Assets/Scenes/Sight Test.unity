@@ -1026,7 +1026,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f42733da073f794881edfc97a8fc4b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerRigidbody: {fileID: 1876794132}
+  fieldOfView: {fileID: 1228969926}
   speed: 7
 --- !u!50 &1876794132
 Rigidbody2D:
